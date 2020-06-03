@@ -17,8 +17,8 @@ filename='../../data/timing/data25.d2';
 %filename='../../data/timing/data75.d2';
 %filename='../../data/timing/data100.d2';
 
-% Note that the number is the number of points per dataset
-% There are four datasets per experiment
+% Note, the number is points per dataset, and there are four datasets
+% e.g. data25 corresponds to 100 points
 
 % %%%%%%%%%%%%%%%%%%%%%%%%% %
 % Cubic Structures Data     %
