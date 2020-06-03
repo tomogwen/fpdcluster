@@ -20,7 +20,7 @@ pip install -r requirements.txt
 In ```clustering.py``` we provide a function ```fpd_cluster``` that accepts a list of datasets and number of clusters as an input, and returns membership values and cluster centres.
 To use it, have ```clustering.py``` in the same folder as your project and ```import fpd_cluster from clustering``` at the top of your file.
 
-If you have already have a list of persistence diagrams, you can cluster them using the ```pd_fuzzy``` function in ```clustering.py```.
+If you already have a list of persistence diagrams, you can cluster them using the ```pd_fuzzy``` function in ```clustering.py```.
 
 ## Results
 
