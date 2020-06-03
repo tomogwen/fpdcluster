@@ -1,0 +1,55 @@
+data_177-TOPOS_Cishingedpolydiacetylene/Systre
+_audit_creation_date                2015-08-11
+_audit_creation_method              ToposPro
+_chemical_formula_structural        ths
+_chemical_formula_sum               C1
+_citation_special_details
+;
+File: 3D C.out.cgd. 
+;
+_cell_length_a                      5.195
+_cell_length_b                      5.1936
+_cell_length_c                      3.493
+_cell_angle_alpha                   90
+_cell_angle_beta                    107.64
+_cell_angle_gamma                   90
+_cell_volume                        89.81237
+_cell_formula_units_Z               16
+_symmetry_space_group_name_H-M      'C 1 2/c 1'
+_symmetry_Int_Tables_number         15
+_refine_ls_R_factor_all             0
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 -x,-y,-z
+4 x,-y,1/2+z
+5 1/2+x,1/2+y,z
+6 1/2-x,1/2+y,1/2-z
+7 1/2-x,1/2-y,-z
+8 1/2+x,1/2-y,1/2+z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+C1 C 8 0.03087 0.05056 0.40020 1.0000
+C2 C 8 0.17685 0.18363 0.46693 1.0000
+loop_
+_topos_bond_atom_site_label_1
+_topos_bond_atom_site_label_2
+_topos_bond_site_symmetry_1
+_topos_bond_site_symmetry_2
+_topos_bond_distance
+_topos_bond_type
+_topos_bond_multiplicity
+C1 C1 1_0_0_0 2_0_0_0 1.0000 V 4
+C1 C1 1_0_0_0 3_0_0_1 1.0001 V 4
+C1 C2 1_0_0_0 1_0_0_0 1.0000 V 8
+C2 C2 1_0_0_0 7_0_0_1 0.9999 V 4
+#End of data_177-TOPOS_Cishingedpolydiacetylene/Systre
+

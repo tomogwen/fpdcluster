@@ -1,0 +1,65 @@
+data_34-TOPOS_ths3
+_audit_creation_date                2015-11-30
+_audit_creation_method              ToposPro
+_chemical_formula_structural        ths3
+_chemical_name_systematic
+;
+ths3
+;
+_chemical_formula_sum               C1
+_citation_special_details
+;
+Wavelength = 0.71073.; Estimated standard deviations in the unit-cell
+ dimensions: esd(a)=0.0000 esd(b)=0.0000 esd(c)=0.0000 esd(alfa)=0.00
+0 esd(beta)=0.000 esd(gamma)=0.000.; TRMX 1.000 0.000 0.000 0.000 -1.
+000 0.000 0.000 0.000 -1.000 mC 2; SPGR C2/c
+;
+_cell_length_a                      5.3556
+_cell_length_b                      8.238
+_cell_length_c                      4.6059
+_cell_angle_alpha                   90
+_cell_angle_beta                    95.477
+_cell_angle_gamma                   90
+_cell_volume                        202.2819
+_cell_formula_units_Z               16
+_symmetry_space_group_name_H-M      'C 2/c'
+_symmetry_Int_Tables_number         15
+_refine_ls_R_factor_all             0
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,y,1/2-z
+3 -x,-y,-z
+4 x,-y,1/2+z
+5 1/2+x,1/2+y,z
+6 1/2-x,1/2+y,1/2-z
+7 1/2-x,1/2-y,-z
+8 1/2+x,1/2-y,1/2+z
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_occupancy
+C1 C 8 0.96685 0.93575 0.90258 1.0000
+C2 C 8 0.82361 0.80534 0.97859 1.0000
+loop_
+_topos_bond_atom_site_label_1
+_topos_bond_atom_site_label_2
+_topos_bond_site_symmetry_1
+_topos_bond_site_symmetry_2
+_topos_bond_distance
+_topos_bond_voronoi_solidangle
+_topos_bond_type
+_topos_bond_multiplicity
+C1 C2 1_0_0_0 1_0_0_0 1.3844 29.84 V 8
+C1 C1 1_0_0_0 3_2_2_2 1.4111 29.56 V 4
+C1 C1 1_0_0_0 2_2_0_1 1.4822 26.37 V 4
+C1 C2 1_0_0_0 2_2_0_2 3.1507 2.48 W 8
+C2 C2 1_0_0_0 7_1_1_2 1.2335 35.32 V 4
+C2 C2 1_0_0_0 2_2_0_2 2.9864 6.45 W 4
+C2 C2 1_0_0_0 3_1_2_2 4.7403 1.87 W 4
+#End of data_34-TOPOS_ths3
