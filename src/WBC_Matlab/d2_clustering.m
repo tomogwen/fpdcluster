@@ -16,6 +16,12 @@ filename='../../data/timing/data25.d2';
 %filename='../../data/timing/data50.d2';
 %filename='../../data/timing/data75.d2';
 %filename='../../data/timing/data100.d2';
+%filename='../../data/timing/data125.d2';
+%filename='../../data/timing/data150.d2';
+%filename='../../data/timing/data175.d2';
+%filename='../../data/timing/data200.d2';
+%filename='../../data/timing/data225.d2';
+%filename='../../data/timing/data250.d2';
 
 % Note, the number is points per dataset, and there are four datasets
 % e.g. data25 corresponds to 100 points
