@@ -44,17 +44,17 @@ Our algorithm also runs at least an order of magnitude faster than comparable Wa
 
 ### FPDCluster
 
-To reproduce the synthetic data results and figures, run
+To reproduce the synthetic data results and figures:
 ```
 python src/synthetic_data.py
 ```
 
-To reproduce the timing results, run 
+To reproduce the timing results:
 ```
 python src/timing_experiments.py
 ```
 
-To reproduce the cubic structures and carbon allotropes results, run
+To reproduce the cubic structures and carbon allotropes results:
 ```
 python src/lattice_structures.py
 ```
