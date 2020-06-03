@@ -72,7 +72,7 @@ Having selected the experiment and algorithm in this way, run ```d2_clustering.m
 
 ## Datasets
 
-We provide examples of face-centered and body-centered cubic structure from the [Materials Project](https://materialsproject.org/), and diamond and cis-hinged polydiacetylene from the [SACADA Carbon Allotrope Database](http://sacada.sctms.ru/). 
+We provide examples of face-centered and body-centered cubic structures from the [Materials Project](https://materialsproject.org/), and diamond and cis-hinged polydiacetylene from the [SACADA Carbon Allotrope Database](http://sacada.sctms.ru/). 
 These are provided as ```cif``` files, which we export to ```xyz``` format using [VESTA](https://jp-minerals.org/vesta/), then convert to ```csv``` using a custom function in ```file_utils.py```.
 
 The Wasserstein barycentre code that we have used has a custom ```d2``` file format. Also included in ```file_utils.py``` is a function ```save_as_d2``` that saves the data structures used in our code to d2 format.
