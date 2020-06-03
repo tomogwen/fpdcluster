@@ -1,4 +1,4 @@
-# Fuzzy c-Mean Clustering for Persistence Diagrams
+# Fuzzy c-Means Clustering for Persistence Diagrams
 
 This repository is the official implementation of the paper Fuzzy c-Means Clustering for Persistence Diagrams. 
 
