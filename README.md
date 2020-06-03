@@ -64,9 +64,10 @@ N.b. The paths to the data require that you are in the root directory when runni
 ### Other algorithms
 
 The remaining Wasserstein barycentre clustering algorithms use implementations from [this](https://github.com/bobye/WBC_Matlab) repository. We provide a copy of this library in ```src/WBC_Matlab```.
-We have changed settings to suit our data, but the implementations of the algorithms themselves are untouched. Having selected the experiment and algorithm in this way, run ```d2_clustering.m``` to compute the cluster labels and display the clustering time.
+We have changed settings to suit our data, but the implementations of the algorithms themselves are untouched. 
 
 To reproduce our results, you can select the experiment and dataset by uncommenting the file and relevant settings in ```d2_clustering.m```. To change the algorithm, uncomment the required algorithm from line 119 in ```d2clusters.m```.
+Having selected the experiment and algorithm in this way, run ```d2_clustering.m``` to compute the cluster labels and display the time taken.
 
 
 ## Datasets
