@@ -1,6 +1,6 @@
 # Fuzzy c-Means Clustering for Persistence Diagrams
 
-This repository is the official implementation of the paper Fuzzy c-Means Clustering for Persistence Diagrams. 
+This repository is the official implementation of the paper [Fuzzy c-Means Clustering for Persistence Diagrams](https://arxiv.org/abs/2006.02796). 
 
 We develop an algorithm to fuzzy cluster datasets based on their topology. In the figure we show nine datasets with their corresponding persistence diagrams, and three cluster centres produced by our algorithm. The cluster centres have zero, one, or two significant off-diagonal points, corresponding to zero, one, or two rings in the original datasets.
 
