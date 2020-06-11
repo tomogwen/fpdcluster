@@ -1,5 +1,15 @@
 
 % %%%%%%%%%%%%%%%%%%%%%%%%% %
+% Notes to user             %
+% %%%%%%%%%%%%%%%%%%%%%%%%% %
+
+% This code sometimes fails to converge
+% If you run it several times, it will converge
+% The order of the carbon allotrope and cubic structure data is 
+%     permuted - a correct clustering is 122211 (or 211122)
+
+
+% %%%%%%%%%%%%%%%%%%%%%%%%% %
 % Timing Data               %
 % %%%%%%%%%%%%%%%%%%%%%%%%% %
 
